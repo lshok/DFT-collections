@@ -90,6 +90,8 @@ Valgrind https://valgrind.org
 
 ### Compiler
 
+Intel parallel studio XE https://software.intel.com/en-us/parallel-studio-xe
+
 MPICH http://www.mpich.org
 
 Open MPI https://www.open-mpi.org
