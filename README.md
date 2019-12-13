@@ -78,6 +78,8 @@ Latex https://www.tug.org/texlive/
 ### Build related software
 Cmake https://cmake.org
 
+GNU make https://www.gnu.org/software/make/manual/make.html
+
 Visual studo code https://code.visualstudio.com
 
 git https://git-scm.com
@@ -85,6 +87,12 @@ git https://git-scm.com
 lldb http://lldb.llvm.org,  GDB https://www.gnu.org/software/gdb/
 
 Valgrind https://valgrind.org
+
+### Compiler
+
+MPICH http://www.mpich.org
+
+Open MPI https://www.open-mpi.org
 
 ### C/C++ libratires
 
@@ -112,6 +120,7 @@ Jupyter Notebook https://jupyter.org
 
 Anaconda https://www.anaconda.com
 
+Intel Math Kernel Library Link Line Advisor https://software.intel.com/en-us/articles/intel-mkl-link-line-advisor
 
 
 
