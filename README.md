@@ -32,6 +32,8 @@ Phono3py http://atztogo.github.io/phono3py/
 # Scripts
 potfit https://www.potfit.net/wiki/doku.php
 
+vaspkit http://vaspkit.sourceforge.net
+
 
 # Visualization code or software
 Vesta http://jp-minerals.org/vesta/en/
@@ -44,6 +46,8 @@ matplotlib https://matplotlib.org
 
 Gnuplot http://www.gnuplot.info
 
+ImageJ https://imagej.net/Welcome
+
 # Structure database
 Materials project https://materialsproject.org
 
@@ -53,6 +57,8 @@ American Mineralogist Crystal Structure Database http://rruff.geo.arizona.edu/AM
 merriam-webster https://www.merriam-webster.com
 
 linggle https://linggle.com
+
+Latex https://www.tug.org/texlive/
 
 
 # Coding tools and libraries
