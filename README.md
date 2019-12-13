@@ -26,6 +26,8 @@ Lammps https://lammps.sandia.gov
 # Lattice Dynamics Code
 Phonopy https://atztogo.github.io/phonopy/
 
+Phono3py http://atztogo.github.io/phono3py/
+
 
 # Scripts
 potfit https://www.potfit.net/wiki/doku.php
@@ -62,7 +64,6 @@ git https://git-scm.com
 
 lldb http://lldb.llvm.org,  GDB https://www.gnu.org/software/gdb/
 
-
 Eigen  https://eigen.tuxfamily.org/dox/
 
 Qt https://www.qt.io
@@ -74,6 +75,8 @@ GNU Scientific Library https://www.gnu.org/software/gsl/doc/html/
 FFTW http://www.fftw.org
 
 Voro++ http://math.lbl.gov/voro++/
+
+Spglib https://atztogo.github.io/spglib/
 
 WebPlotDigitizer https://automeris.io/WebPlotDigitizer/
 
