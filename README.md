@@ -17,8 +17,6 @@ NEB https://theory.cm.utexas.edu/vtsttools/neb.html
 
 DFTB+ https://www.dftbplus.org
 
-Calypso http://www.calypso.cn
-
 Lammps https://lammps.sandia.gov
 
 
