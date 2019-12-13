@@ -75,7 +75,7 @@ Latex https://www.tug.org/texlive/
 
 ## Coding tools and libraries  <a name="tools"></a>
 
-### build related software
+### Build related software
 Cmake https://cmake.org
 
 Visual studo code https://code.visualstudio.com
