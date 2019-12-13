@@ -27,6 +27,10 @@ Lammps https://lammps.sandia.gov
 Phonopy https://atztogo.github.io/phonopy/
 
 
+# Scripts
+potfit https://www.potfit.net/wiki/doku.php
+
+
 # Visualization code or software
 Vesta http://jp-minerals.org/vesta/en/
 
