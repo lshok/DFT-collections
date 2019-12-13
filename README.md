@@ -5,6 +5,14 @@ VASP www.vasp.at
 
 Quantum-espresso https://www.quantum-espresso.org
 
+GPAW https://wiki.fysik.dtu.dk/gpaw/
+
+QuantumATK https://docs.quantumatk.com/index.html
+
+Wannier90 http://www.wannier.org
+
+Atomic Simulation Environment https://wiki.fysik.dtu.dk/ase/
+
 DFTB+ https://www.dftbplus.org
 
 Calypso http://www.calypso.cn
