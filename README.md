@@ -82,6 +82,8 @@ git https://git-scm.com
 
 lldb http://lldb.llvm.org,  GDB https://www.gnu.org/software/gdb/
 
+Valgrind https://valgrind.org
+
 Eigen  https://eigen.tuxfamily.org/dox/
 
 Qt https://www.qt.io
