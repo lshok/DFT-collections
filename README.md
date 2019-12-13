@@ -74,6 +74,8 @@ Latex https://www.tug.org/texlive/
 
 
 ## Coding tools and libraries  <a name="tools"></a>
+
+### build related software
 Cmake https://cmake.org
 
 Visual studo code https://code.visualstudio.com
@@ -83,6 +85,8 @@ git https://git-scm.com
 lldb http://lldb.llvm.org,  GDB https://www.gnu.org/software/gdb/
 
 Valgrind https://valgrind.org
+
+### C/C++ libratires
 
 Eigen  https://eigen.tuxfamily.org/dox/
 
@@ -97,6 +101,8 @@ FFTW http://www.fftw.org
 Voro++ http://math.lbl.gov/voro++/
 
 Spglib https://atztogo.github.io/spglib/
+
+### Useful tools
 
 WebPlotDigitizer https://automeris.io/WebPlotDigitizer/
 
