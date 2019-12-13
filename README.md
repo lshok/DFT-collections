@@ -56,6 +56,8 @@ American Mineralogist Crystal Structure Database http://rruff.geo.arizona.edu/AM
 # Writting
 merriam-webster https://www.merriam-webster.com
 
+Thesaurus https://www.thesaurus.com
+
 linggle https://linggle.com
 
 Latex https://www.tug.org/texlive/
