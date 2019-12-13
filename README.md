@@ -32,6 +32,8 @@ potfit https://www.potfit.net/wiki/doku.php
 
 vaspkit http://vaspkit.sourceforge.net
 
+cif2cell https://sourceforge.net/projects/cif2cell/
+
 
 # Visualization code or software
 Vesta http://jp-minerals.org/vesta/en/
