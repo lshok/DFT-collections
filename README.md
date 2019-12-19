@@ -37,6 +37,7 @@ Phonopy https://atztogo.github.io/phonopy/
 
 Phono3py http://atztogo.github.io/phono3py/
 
+Phonopy-Spectroscopy https://github.com/JMSkelton/Phonopy-Spectroscopy
 
 ## Scripts  <a name="scripts"></a>
 potfit https://www.potfit.net/wiki/doku.php
