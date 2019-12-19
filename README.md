@@ -41,6 +41,8 @@ Phonopy-Spectroscopy https://github.com/JMSkelton/Phonopy-Spectroscopy
 
 Raman-sc https://github.com/raman-sc/VASP
 
+galore https://galore.readthedocs.io/en/latest/readme.html
+
 ## Scripts  <a name="scripts"></a>
 potfit https://www.potfit.net/wiki/doku.php
 
