@@ -69,6 +69,8 @@ Materials project https://materialsproject.org
 
 American Mineralogist Crystal Structure Database http://rruff.geo.arizona.edu/AMS/amcsd.php
 
+2D structures and layered materials https://www.materialscloud.org/discover/2dstructures/dashboard/ptable
+
 ## English writting  <a name="writting"></a>
 merriam-webster https://www.merriam-webster.com
 
