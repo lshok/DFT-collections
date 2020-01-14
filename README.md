@@ -9,7 +9,7 @@
 6. [English writting](#writting)
 7. [Coding tools and libraries](#tools)
 8. [Experimental related database](#experimental)
-9. [Emperical potential database](#emperical]
+9. [Emperical potential database](#emperical)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -141,3 +141,4 @@ RRUFF Project website containing an integrated database of Raman spectra, X-ray 
 NIST Chemistry WebBook https://webbook.nist.gov/chemistry/form-ser/
 
 ## Emperical potential database <a name="emperical"></a>
+Nist potentials https://www.ctcms.nist.gov/potentials/
