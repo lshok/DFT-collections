@@ -135,6 +135,8 @@ Anaconda https://www.anaconda.com
 
 Intel Math Kernel Library Link Line Advisor https://software.intel.com/en-us/articles/intel-mkl-link-line-advisor
 
+rst https://docutils.sourceforge.io/docs/user/rst/quickref.html
+
 ## Experimental related database  <a name="experimental"></a>
 RRUFF Project website containing an integrated database of Raman spectra, X-ray diffraction and chemistry data for minerals. http://rruff.info
 
