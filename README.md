@@ -157,3 +157,5 @@ The determination of point groups https://www.slideshare.net/ZuhriyatusSholichah
 Google's software suite for combinatorial optimization. https://github.com/google/or-tools
 
 molecular point group symmetry lib. https://github.com/mcodev31/libmsym
+
+Semiempirical Extended Tight-Binding Program Package (from H~Rn). https://github.com/grimme-lab/xtb
