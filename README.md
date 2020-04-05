@@ -15,26 +15,16 @@
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
-VASP www.vasp.at
-
-Quantum-espresso https://www.quantum-espresso.org
-
-GPAW https://wiki.fysik.dtu.dk/gpaw/
-
-QuantumATK https://docs.quantumatk.com/index.html
-
-Wannier90 http://www.wannier.org
-
-Atomic Simulation Environment https://wiki.fysik.dtu.dk/ase/
-
-NEB https://theory.cm.utexas.edu/vtsttools/neb.html
-
-DFTB+ https://www.dftbplus.org
-
-xtb https://xtb-docs.readthedocs.io/en/latest/contents.html
-
-Lammps https://lammps.sandia.gov
-
+* VASP www.vasp.at
+* Quantum-espresso https://www.quantum-espresso.org
+* GPAW https://wiki.fysik.dtu.dk/gpaw/
+* QuantumATK https://docs.quantumatk.com/index.html
+* Wannier90 http://www.wannier.org
+* Atomic Simulation Environment https://wiki.fysik.dtu.dk/ase/
+* NEB https://theory.cm.utexas.edu/vtsttools/neb.html
+* DFTB+ https://www.dftbplus.org
+* xtb https://xtb-docs.readthedocs.io/en/latest/contents.html
+* Lammps https://lammps.sandia.gov
 
 
 ## Lattice Dynamics Code  <a name="phon"></a>
