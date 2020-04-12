@@ -50,6 +50,7 @@
 * American Mineralogist Crystal Structure Database http://rruff.geo.arizona.edu/AMS/amcsd.php
 * 2D structures and layered materials https://www.materialscloud.org/discover/2dstructures/dashboard/ptable
 * Computational 2D materials database https://cmrdb.fysik.dtu.dk/c2db/
+* COMPUTATIONAL MATERIALS REPOSITORY(CMR) https://cmr.fysik.dtu.dk
 ## English writting  <a name="writting"></a>
 * merriam-webster https://www.merriam-webster.com
 * Thesaurus https://www.thesaurus.com
