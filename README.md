@@ -100,3 +100,4 @@
 * molecular point group symmetry lib. https://github.com/mcodev31/libmsym
 * Semiempirical Extended Tight-Binding Program Package (from H~Rn). https://github.com/grimme-lab/xtb
 * stk: A Python Toolkit for Supramolecular Assembly https://github.com/lukasturcani/stk
+* Awesome Materials Informatics https://github.com/tilde-lab/awesome-materials-informatics
