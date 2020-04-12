@@ -37,13 +37,14 @@
 * vaspkit http://vaspkit.sourceforge.net
 * cif2cell https://sourceforge.net/projects/cif2cell/
 
-## Visualization code or software  <a name="Visulization"></a>
+## Visualization code or software  <a name="Visualization"></a>
 * Vesta http://jp-minerals.org/vesta/en/
 * Ovito https://www.ovito.org
 * POV-Ray http://www.povray.org
 * matplotlib https://matplotlib.org
 * Gnuplot http://www.gnuplot.info
 * ImageJ https://imagej.net/Welcome
+* sumo (Band and DOS plot) https://sumo.readthedocs.io/en/latest/
 ## Structure database  <a name="database"></a>
 * Materials project https://materialsproject.org
 * American Mineralogist Crystal Structure Database http://rruff.geo.arizona.edu/AMS/amcsd.php
