@@ -12,7 +12,7 @@
 9. [Emperical potential database](#emperical)
 10. [Science](#science)
 11. [Github](#github)
-12. [Blog]($blog)
+12. [Blog](#blog)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
