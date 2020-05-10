@@ -12,6 +12,7 @@
 9. [Emperical potential database](#emperical)
 10. [Science](#science)
 11. [Github](#github)
+12. [Blog]($blog)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -102,3 +103,6 @@
 * Semiempirical Extended Tight-Binding Program Package (from H~Rn). https://github.com/grimme-lab/xtb
 * stk: A Python Toolkit for Supramolecular Assembly https://github.com/lukasturcani/stk
 * Awesome Materials Informatics https://github.com/tilde-lab/awesome-materials-informatics
+
+## Blog <a name="blog"></a>
+https://dannyvanpoucke.be
