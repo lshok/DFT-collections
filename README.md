@@ -106,7 +106,8 @@
 * Awesome Materials Informatics https://github.com/tilde-lab/awesome-materials-informatics
 
 ## Blog <a name="blog"></a>
-https://dannyvanpoucke.be
+* https://dannyvanpoucke.be
+* wxWidgets http://www-h.eng.cam.ac.uk/help/tpl/graphics/wxWidgets.html
 
 ## Online tools <a name = "onlinetools"></a>
 * Regula Expression 101 https://regex101.com
