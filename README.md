@@ -112,3 +112,4 @@
 ## Online tools <a name = "onlinetools"></a>
 * Regula Expression 101 https://regex101.com
 * Online JSON Viewer http://jsonviewer.stack.hu
+* Online XML Viewer https://jsonformatter.org/xml-parser
