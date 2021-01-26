@@ -26,6 +26,9 @@
 * NEB https://theory.cm.utexas.edu/vtsttools/neb.html
 * DFTB+ https://www.dftbplus.org
 * xtb https://xtb-docs.readthedocs.io/en/latest/contents.html
+* pybinding https://docs.pybinding.site
+* TB2J https://tb2j.readthedocs.io
+* Kwant https://kwant-project.org/
 * Lammps https://lammps.sandia.gov
 
 ## Lattice Dynamics Code  <a name="phon"></a>
