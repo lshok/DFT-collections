@@ -14,6 +14,7 @@
 11. [Github](#github)
 12. [Blog](#blog)
 13. [Online tools](#onlinetools)
+14. [Writting DFT code](#dftcode)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -121,3 +122,7 @@
 * Regula Expression 101 https://regex101.com
 * Online JSON Viewer http://jsonviewer.stack.hu
 * Online XML Viewer https://jsonformatter.org/xml-parser
+
+## Write a DFT code <a name = "dftcode"></a>
+* libxc https://www.tddft.org/programs/libxc/
+* libvdwxc https://libvdwxc.org/index.html
