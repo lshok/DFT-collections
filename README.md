@@ -37,6 +37,8 @@
 * Phonopy-Spectroscopy https://github.com/JMSkelton/Phonopy-Spectroscopy
 * Raman-sc https://github.com/raman-sc/VASP
 * galore https://galore.readthedocs.io/en/latest/readme.html
+* shengBTE https://www.shengbte.org
+* extracting high-order force constants and converting between formats. https://hiphive.materialsmodeling.org/index.html
 ## Scripts  <a name="scripts"></a>
 * potfit https://www.potfit.net/wiki/doku.php
 * vaspkit http://vaspkit.sourceforge.net
