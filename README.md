@@ -16,6 +16,7 @@
 13. [Online tools](#onlinetools)
 14. [Writting DFT code](#dftcode)
 15. [Phonon](#phonon)
+16. [conda](#conda)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -130,3 +131,6 @@
 
 ## Phonon <a name = "phonon"></a>
 * PTRANS http://www.phonon.t.u-tokyo.ac.jp/p-trans/index.html
+
+## Conda <a name = "conda"></a>
+* Tsinghua Conda mirror https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
