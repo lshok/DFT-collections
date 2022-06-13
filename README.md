@@ -17,6 +17,7 @@
 14. [Writting DFT code](#dftcode)
 15. [Phonon](#phonon)
 16. [conda](#conda)
+17. [math tools](#math)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -134,3 +135,6 @@
 
 ## Conda <a name = "conda"></a>
 * Tsinghua Conda mirror https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
+
+## Math tools <a name = "math"></a>
+* Online Integral Calculator https://www.integral-calculator.com
