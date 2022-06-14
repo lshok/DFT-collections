@@ -138,3 +138,4 @@
 
 ## Math tools <a name = "math"></a>
 * Online Integral Calculator https://www.integral-calculator.com
+* Online Derivative Calculator https://www.derivative-calculator.net
