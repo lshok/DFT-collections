@@ -125,6 +125,8 @@
 * Regula Expression 101 https://regex101.com
 * Online JSON Viewer http://jsonviewer.stack.hu
 * Online XML Viewer https://jsonformatter.org/xml-parser
+* Energy Units Converter https://www.colby.edu/chemistry/PChem/Hartree.html
+* Eyring equation calculator calculates rate constant k http://www.metadynamics.cz/eyring/eyring.html
 
 ## Write a DFT code <a name = "dftcode"></a>
 * libxc https://www.tddft.org/programs/libxc/
