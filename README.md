@@ -18,7 +18,7 @@
 15. [Phonon](#phonon)
 16. [conda](#conda)
 17. [math tools](#math)
-18. [Potential or Basissets](#basis)
+18. [Potential and Basis sets](#basis)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
