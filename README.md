@@ -18,6 +18,7 @@
 15. [Phonon](#phonon)
 16. [conda](#conda)
 17. [math tools](#math)
+18. [Potential or Basissets](#basis)
 
 
 ## General purpose DFT and beyond Codes <a name="gp_DFT_code"></a>
@@ -141,3 +142,6 @@
 ## Math tools <a name = "math"></a>
 * Online Integral Calculator https://www.integral-calculator.com
 * Online Derivative Calculator https://www.derivative-calculator.net
+
+## Potentials and Basis sets <a name = "basis"></a>
+*  Basis Set Exchange https://www.basissetexchange.org
